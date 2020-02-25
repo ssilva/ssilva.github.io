@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ssilva
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://saulosilva.com
+  * I am ssilva (https://keybase.io/ssilva) on keybase.
+  * I have a public key ASD4uTWrjL1lBlfQGqbAru4GQOh6xWzDYXAhwleLTkxMnwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f8b935ab8cbd650657d01aa6c0aeee0640e87ac56cc3617021c2578b4e4c4c9f0a",
+      "host": "keybase.io",
+      "kid": "0120f8b935ab8cbd650657d01aa6c0aeee0640e87ac56cc3617021c2578b4e4c4c9f0a",
+      "uid": "24f1cef4e06eb17d8e66d4ed8d3d9e19",
+      "username": "ssilva"
+    },
+    "merkle_root": {
+      "ctime": 1540950945,
+      "hash": "d982c2cfec99935b33aaf551ee876b73c778c6980d2a591c7041b5477e17d31cc11d389065ff78ddcc0a5d912cdc6a46e404b4c47c6d0d19e2f29fde0f11885c",
+      "hash_meta": "2d6f8a207a6a4c1db7ee20a96d59b287d778bb4b463c80b251896a833a4eae6a",
+      "seqno": 3874450
+    },
+    "service": {
+      "entropy": "pzOjONxqUmzEjSA1B/YLo16o",
+      "hostname": "saulosilva.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.8.0"
+  },
+  "ctime": 1540950955,
+  "expire_in": 504576000,
+  "prev": "e54c3e19497603ff87dcf431aef1664051fca0a45c9be32d749c7256b94a5175",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg+Lk1q4y9ZQZX0BqmwK7uBkDoesVsw2FwIcJXi05MTJ8Kp3BheWxvYWTESpcCCcQg5Uw+GUl2A/+H3PQxrvFmQFH8oKRcm+MtdJxyVrlKUXXEILSN6sJoPCpY7esbC4OOF4nHsGcIBNwu9Fg8C3F0puGbAgHCo3NpZ8RAJag4FwtDV7ZivB9kTP47e2+CF5edKD0vpquFLKJoZN4DOliYy8wrz0fPDJqsJwKnssvcmWjberfPsZ00r9kDDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPtVHVN8n5Rbh95qcpXmNNgG/unRGfvXH1JY2odmMVDLo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ssilva
+
+==================================================================
