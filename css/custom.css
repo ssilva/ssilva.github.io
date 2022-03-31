@@ -27,3 +27,14 @@ pre {
     max-width: 46rem;
   }
 }
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background:#000;
+    color: #eee;
+  }
+
+  pre {
+    background:#242424;
+  }
+}
